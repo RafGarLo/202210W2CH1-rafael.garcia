@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    background: rgb(17, 128, 172);
+    flex-direction: column;
+    align-content: stretch;
+    justify-content: space-evenly;
+}
+a {
+    color: rgb(225, 233, 235);
+}
+
+p {
+    font-size: large;
+}
