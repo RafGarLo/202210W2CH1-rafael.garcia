@@ -7,9 +7,16 @@ body {
     justify-content: space-evenly;
 }
 a {
-    color: rgb(225, 233, 235);
+    color: rgb(7, 105, 12);
 }
 
 p {
     font-size: large;
+}
+.list-container {
+    border: 1px solid grey;
+    background-color: beige;
+    padding: 3rem;
+    border-radius: 20px;
+    font-size: 1.5rem;
 }
